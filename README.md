@@ -18,7 +18,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 
 ---
 
-#### Languages I Use
+## Languages I Use
 
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
 
@@ -33,7 +33,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 ---
 
 
-#### My Latest Project 
+## My Latest Project 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=nightowl&show_owner=true"/></p>
 
