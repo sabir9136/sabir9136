@@ -1,5 +1,4 @@
 # 🐱‍🚀 Sabir Khan  
----
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**  
 <br />
@@ -14,6 +13,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     
 </p>
+
 ---
 
 ## Languages I Use
@@ -29,7 +29,6 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=nightowl" alt="simplysabir" /></p>
 
 ---
-
 
 ## My Latest Project 
 
