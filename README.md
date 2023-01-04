@@ -20,10 +20,10 @@ I have a strong foundation in web development, blockchain, and open source as a 
 ## Technologies I Know 
 <br />
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl" alt="simplysabir" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl" alt="simplysabir" /></p>
 <br />
 <br />
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p> <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p> <br>
 <br />
 <p><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl" alt="simplysabir" /></p>
 <br/>
