@@ -43,8 +43,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br />
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" />
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></p>
 
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p> <br>
