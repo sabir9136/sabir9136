@@ -1,4 +1,4 @@
-# **🐱‍🚀 Sabir Khan**  
+# 🐱‍🚀 Sabir Khan  
 
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**  
@@ -17,9 +17,11 @@ I have a strong foundation in web development, blockchain, and open source as a 
 
 ---
 
-## **Languages I Use**
+## Technologies I Know 
+<br />
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl" alt="simplysabir" /></p>
+<br />
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p>
 <br />
@@ -31,8 +33,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 ---
 
 
-## **My Latest Project** 
-
+## My Latest Project 
+<br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=nightowl&show_owner=true"/></p>
 
 <!-- 
