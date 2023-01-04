@@ -50,7 +50,10 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br />
 <!-- https://github.com/simplysabir->
 <p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p> <br>
+
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
+</p> 
+<br>
 <br />
 
 <p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
