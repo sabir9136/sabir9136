@@ -65,7 +65,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 ---
 
 
-<h2>My Latest Project</h2>
+<h2>My Latest Project</h2> 
 <br />
 <p><a href="https://github.com/simplysabir/CoderClue#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/simplysabir/CoderClue#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
