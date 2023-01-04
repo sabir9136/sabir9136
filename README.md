@@ -42,17 +42,24 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <!-- take these icons from skillicons.dev -->
 <br />
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" />
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+  <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
 </p>
 
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p> <br>
+<!-- https://github.com/simplysabir->
+<p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p> <br>
 <br />
-<p><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl" alt="simplysabir" /></p>
+
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
 <br/>
 <br />
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=nightowl" alt="simplysabir" /></p>
+
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
 <br/>
 
 ---
