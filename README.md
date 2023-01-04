@@ -1,10 +1,10 @@
 <h1>🐱‍🚀 Sabir Khan</h1>  
 
 
-**`Digital Craftsman (Developer/Programmer/Creator)`**  
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**  
 <br />
-<p align="left">
-I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India. With over two years of experience in the industry, I have a proven ability to solve  complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise on platforms such as Hashnode. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.
+<p align="left"> 
+I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India. With over two years of experience in the technology industry, I have a proven ability to solve  complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise on platforms such as Hashnode. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.
 </p>
 
 <p align="left"> 
@@ -42,36 +42,23 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <!-- take these icons from skillicons.dev -->
 <br />
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-  <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
-</p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl" alt="simplysabir" /></p>
 
 <br />
-<!-- https://github.com/simplysabir->
-<p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
-</p> 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p> <br>
 <br />
-
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl" alt="simplysabir" /></p>
 <br/>
 <br />
-
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=nightowl" alt="simplysabir" /></p>
 <br/>
 
 ---
 
 
-<h2>My Latest Project</h2> 
+<h2>My Latest Project</h2>
 <br />
-<p><a href="https://github.com/simplysabir/CoderClue#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/CoderClue#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=nightowl&show_owner=true"/></p>
 <br />
 
 <h2>Connect With Me</h2> 
@@ -81,3 +68,26 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <a href="https://www.linkedin.com/in/sabir-khan-159784240/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=simplysabir&theme=nightowl)](https://git.io/streak-stats) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=simplysabir&theme=nightowl)](https://git.io/streak-stats) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
