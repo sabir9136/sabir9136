@@ -1,7 +1,7 @@
 <h1>🐱‍🚀 Sabir Khan</h1>  
 
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**  
+**`Digital Craftsman (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
 I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India. With over two years of experience in the technology industry, I have a proven ability to solve  complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise on platforms such as Hashnode. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.
@@ -44,7 +44,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <!-- // as README  Github Supports Direct HTML SO USE DIRECTLY THAT -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></p>
+
 
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl" alt="simplysabir" /></p> <br>
