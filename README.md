@@ -18,6 +18,16 @@
 ---
 <br />
 
+<h2>Languages and Tools</h2> 
+<p align="left">
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=react"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
+</p>
+<br />
+
+
 <p><a href="https://github.com/NoahSayed#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSayed&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="NoahSayed" /></a>
   <a href="https://github.com/NoahSayed#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSayed&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="NoahSayed" /></a>
 </p>
@@ -51,7 +61,7 @@
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://twitter.com/malik_9136" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malik_9136" /></a>
-<a href="https://instagram.com/simplysabir_" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplysabir_" /></a>
+<a href="https://twitter.com/simplysabir_" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplysabir_" /></a>
+<a href="https://instagram.com/malik_9136" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik_9136" /></a>
 <a href="https://www.linkedin.com/in/sabir-khan-159784240/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
