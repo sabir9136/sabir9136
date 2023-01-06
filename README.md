@@ -20,14 +20,9 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=react"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  /><img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  /><img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
 </p>
 <br />
-
-
 <p><a href="https://github.com/NoahSayed#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSayed&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="NoahSayed" /></a>
   <a href="https://github.com/NoahSayed#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahSayed&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="NoahSayed" /></a>
 </p>
