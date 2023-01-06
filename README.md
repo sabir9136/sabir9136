@@ -24,7 +24,7 @@
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/NoahSayed#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="NoahSayed" /></a>
+<p>&nbsp;<a href="https://github.com/NoahSayed#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahSayed&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="NoahSayed" /></a>
 <a href="https://github.com/NoahSayed#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoahSayed&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="NoahSayed" /></a>
 </p> 
 <br>
@@ -44,8 +44,8 @@
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/NoahSayed/CoderClue#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahSayed&repo=CoderClue&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/NoahSayed/CoderClue#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahSayed&repo=CoderClue&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/NoahSayed/ai-notes#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahSayed&repo=ai-notes&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/NoahSayed/ai-notes#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NoahSayed&repo=ai-notes&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
