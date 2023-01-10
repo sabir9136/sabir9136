@@ -20,9 +20,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
+<img width="40px" style="" src="https://skillicons.dev/icons?i=js, html, css, ae"  />
 
 </p>
 <br />
