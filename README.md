@@ -20,7 +20,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="40px" style="" src="https://skillicons.dev/icons?i=js, html, css, ae"  />
+<img width="190px"  src="https://skillicons.dev/icons?i=js,html,css,wasm&perline=9"  />
 
 </p>
 <br />
